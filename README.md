@@ -1,8 +1,8 @@
 ## Source
-Interview questions for the School of Computer Science, Nankai University in the summer of 2025.
+Interview questions for VCIP, CS, Nankai University in the summer of 2025.
 
 ## Install
-For implementation details, see README-JDet.
+For implementation details, see README-JDet.md.
 
 ## Train
         python JDet/tools/run_net.py --config-file=JDet\configs\lsknet-s_fpn_1x_dota_with_flip_my_torch2jittor.py --task=train
