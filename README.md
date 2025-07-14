@@ -5,10 +5,11 @@ Interview questions for the School of Computer Science, Nankai University in the
 For implementation details, see README-JDet.
 
 ## Train
-    python JDet/tools/run_net.py --config-file=JDet\configs\lsknet-s_fpn_1x_dota_with_flip_my_torch2jittor.py --task=train
+        python JDet/tools/run_net.py --config-file=JDet\configs\lsknet-s_fpn_1x_dota_with_flip_my_torch2jittor.py --task=train
 ## Test
-If you want to test the downloaded trained models, please set resume_path={you_checkpointspath} in the last line of the config file.  <br>
-    python JDet/tools/run_net.py --config-file=JDet\configs\lsknet-s_fpn_1x_dota_with_flip_my_torch2jittor.py --task=test
+If you want to test the downloaded trained models, please set resume_path={you_checkpointspath} in the last line of the config file. 
+
+        python JDet/tools/run_net.py --config-file=JDet\configs\lsknet-s_fpn_1x_dota_with_flip_my_torch2jittor.py --task=test
 
 ## Result
 ### Pytorch-ORCNN-DOTA v1.0 ss_split
