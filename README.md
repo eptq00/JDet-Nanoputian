@@ -14,11 +14,9 @@ For implementation details, see README-JDet.
 
 
 (Data from myself)<br> 
-`
 |MMRotate   |PL    |BD    |BR    |GTF   |SV    |LV    |SH    |TC    |BC    |ST    |SBF   |RA    |HA    |SP    |HC    |mAP    |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|
 |ORCNN R-50 |89.26 |82.82 |53.17 |82.20 |78.62 |82.40 |87.96 |90.90 |86.24 |84.94 |64.32 |63.92 |67.91 |68.91 |53.22 |75.12  |
-`
 
 <img width="1593" height="580" alt="image" src="https://github.com/user-attachments/assets/5e96ca14-c892-489f-838c-85d6066f2964" />
 
