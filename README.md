@@ -1,5 +1,6 @@
 ## Source
 Interview questions for VCIP, CS, Nankai University in the summer of 2025.
+paper link: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf
 
 ## Install
 For implementation details, see README-JDet.md.
@@ -55,7 +56,7 @@ model:  https://pan.baidu.com/s/1aTxY2hinpaaLl4iRjuutrQ 提取码: m3w3  <br>
 log:    https://pan.baidu.com/s/1PE-h2adSZLG-3skfopNq2A 提取码: eicy <br>
 model:  https://pan.baidu.com/s/1F_gdrI2iSwZ-u1DEKbG6Og 提取码: 675r <br>
 
-(Data from myself)<br> 
+(Data from myself) -Jittor v1-<br>
 |JDet-myself   |PL    |BD    |BR    |GTF   |SV    |LV    |SH    |TC    |BC    |ST    |SBF   |RA    |HA    |SP    |HC    |mAP    |
 |:------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|
 |LSKNet-S      |89.87 |83.31 |54.32 |74.50 |78.67 |84.52 |88.74 |90.90 |86.98 |85.96 |60.47 |63.36 |77.06 |70.77 |68.25 |77.18  |
@@ -64,4 +65,14 @@ model:  https://pan.baidu.com/s/1F_gdrI2iSwZ-u1DEKbG6Og 提取码: 675r <br>
 
 log:    https://pan.baidu.com/s/1upgeLpqV1q5VaVsRsvg2Kg 提取码: 9hx4  <br> 
 model:  https://pan.baidu.com/s/1_7b3TXgarERhMlwce0lbjw 提取码: tvtm  <br> 
+
+(Data from myself) -Jittor v2-<br>
+|JDet-myself   |PL    |BD    |BR    |GTF   |SV    |LV    |SH    |TC    |BC    |ST    |SBF   |RA    |HA    |SP    |HC    |mAP    |
+|:------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|
+|LSKNet-S      |89.71 |85.00 |56.05 |78.48 |74.90 |84.47 |88.78 |90.90 |87.41 |86.51 |61.06 |64.01 |77.89 |71.84 |65.77 |77.52  |
+<img width="1588" height="573" alt="image" src="https://github.com/user-attachments/assets/33128fe9-2a19-4637-8ef6-15b0902be7fe" />
+
+
+log:      <br> 
+model:    <br> 
 
