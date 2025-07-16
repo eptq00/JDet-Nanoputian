@@ -185,9 +185,13 @@ class LSKNet(nn.Module):
         for i in range(self.num_stages):
             patch_embed = getattr(self, f"patch_embed{i + 1}")
             block = getattr(self, f"block{i + 1}")
+            norm = getattr(self, f"norm{i + 1}")
             x, H, W = patch_embed(x)
             for blk in block:
                 x = blk(x)
+            x = x.flatten(2).transpose(1, 2)
+            x = norm(x)
+            x = x.reshape(B, H, W, -1).permute(0, 3, 1, 2)
             outs.append(x)
         return outs
 
