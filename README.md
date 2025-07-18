@@ -1,5 +1,5 @@
 ## Source
-Interview questions for VCIP, CS, Nankai University in the summer of 2025.
+Interview questions for VCIP, CS, Nankai University in the summer of 2025.<br>
 paper link: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf
 
 ## Install
@@ -73,6 +73,6 @@ model:  https://pan.baidu.com/s/1_7b3TXgarERhMlwce0lbjw 提取码: tvtm  <br>
 <img width="1588" height="573" alt="image" src="https://github.com/user-attachments/assets/33128fe9-2a19-4637-8ef6-15b0902be7fe" />
 
 
-log:      <br> 
-model:    <br> 
+log:https://pan.baidu.com/s/18QxURJXC71Q9yi5wxxkV8w 提取码: p9dv<br> 
+model:https://pan.baidu.com/s/1hVwK36ClXdySca52ykpG8Q 提取码: bv39<br> 
 
